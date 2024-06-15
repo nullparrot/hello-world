@@ -4,7 +4,7 @@ I've made this simple 'Hello World' program as the first entry in my software po
 
 The program prints the text 'Hello World' to the console. Since this is a fairly common program, I made it output the worlds diagonally. When the program encounters spaces, it does a line return.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ylwZRTwm5kY)
 
 # Development Environment
 
